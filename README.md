@@ -2,7 +2,7 @@
 
 Battleship CLA Game is a Java command line app that asks the user for guesses to sink battleships on a 7x7 grid.
 
-Link to Original Project and source code/commits [a link](https://github.com/VelasquezTracy25/java-practice-projects/tree/main/src/battleship2)
+Link to Original Project and source code/commits [here](https://github.com/VelasquezTracy25/java-practice-projects/tree/main/src/battleship2)
 
 ## Usage
 
